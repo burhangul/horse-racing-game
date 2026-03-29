@@ -1,6 +1,6 @@
 # Horse Racing Game
 
-Production-quality Vue 3 horse racing dashboard built as a frontend project.
+Vue 3 horse racing dashboard built as a frontend project.
 
 ## Project Overview
 
