@@ -1,0 +1,7 @@
+export const MIN_ROUND_ANIMATION_MS = 1400
+export const MAX_ROUND_ANIMATION_MS = 2600
+export const ROUND_GAP_MS = 250
+export const TRACK_PROGRESS_START_PERCENT = 1
+export const TRACK_PROGRESS_FINISH_PERCENT = 95
+export const TRACK_ANIMATION_TICK_MS = 45
+export const PAUSE_POLL_MS = 60
