@@ -1,6 +1,14 @@
 # Horse Racing Game
 
-Vue 3 horse racing dashboard built as a frontend project.
+A production-style Vue 3 horse racing simulation dashboard built as a frontend project.
+It demonstrates component-driven architecture, modular state management with Vuex, and test coverage
+with both unit and end-to-end scenarios.
+
+## Live Demo
+
+- [Horse Racing Game on Vercel](https://horse-racing-game-gules.vercel.app/)
+- The deployed demo lets you generate a full race program, run rounds one-by-one or all at once,
+  pause/resume an active race, and inspect round-based results in a responsive UI.
 
 ## Project Overview
 
