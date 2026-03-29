@@ -1,6 +1,6 @@
 # Horse Racing Game
 
-Production-quality Vue 3 horse racing dashboard built as a take-home style frontend project.
+Production-quality Vue 3 horse racing dashboard built as a frontend project.
 
 ## Project Overview
 
@@ -32,7 +32,7 @@ npm install
 npm run dev
 ```
 
-## Architecture Decisions (Brief)
+## Architecture Decisions
 
 - Business/domain logic is isolated in composables:
   - `useHorseGenerator` for horse and schedule generation
